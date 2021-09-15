@@ -1,5 +1,3 @@
-(Taken from NYU's Entrepreneurial Institute website at https://entrepreneur.nyu.edu/about/)
+This is me totally changing the language of the mission statement to try and get a merge conflict!
 
-We help startups start up.
-
-Our mission is to create a diverse, inclusive culture that facilitates & celebrates entrepreneurship for everyone in NYU's community, as they create scalable solutions to meaningful challenges.
+NYU's Entrepreneurial Institute has a mission to foster a diverse and inclusive culture of entrepreneurship by providing resources.
